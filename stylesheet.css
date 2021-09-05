@@ -36,16 +36,6 @@ a {
   font-size: 16px;
   margin-bottom: 40px;
 }
-
-.bg-video {
-  font-family: serif;          
-  color: #fff;
-  font-size: 400%;
-  position: absolute;
-  left: 30%;
-  top: 200px;
-  z-index: 1;
-}
   
 .btn-wrapper {
   text-align: center;
@@ -278,4 +268,13 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
+  .bg-video {
+  font-family: serif;          
+  color: #fff;
+  font-size: 400%;
+  position: absolute;
+  left: 30%;
+  top: 200px;
+  z-index: 1;
 }
