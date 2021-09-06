@@ -7,13 +7,7 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-  .bg-video {
-  font-family: serif;          
-  color: #fff;
-  font-size: 400%;
-  margin: 0;
-  z-index: 0;
-}
+
 
 a {
   text-decoration: none;
@@ -23,6 +17,14 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+}
+
+.bg-video {
+  font-family: serif;          
+  color: #fff;
+  font-size: 400%;
+  margin: 0;
+  z-index: 0;
 }
 
 .top-wrapper {
