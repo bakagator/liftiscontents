@@ -23,7 +23,7 @@ a {
   font-family: serif;          
   color: #fff;
   font-size: 400%;
-  position: relative;
+  position: static;
   margin: 0;
   z-index: 0;
 }
