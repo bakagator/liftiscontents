@@ -7,8 +7,6 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-
-
 a {
   text-decoration: none;
 }
@@ -19,21 +17,12 @@ a {
   margin: 0 auto;
 }
 
-
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(コンポ 1.mov);
+  background-image: url(top.png);
   background-size: cover;
   color: white;
   text-align: center;
-}
-
-.bg-video {
-  font-family: serif;          
-  color: #fff;
-  font-size: 400%;
-  position: absolute;
-  z-index: 1;
 }
 
 .top-wrapper h1 {
@@ -47,7 +36,7 @@ a {
   font-size: 16px;
   margin-bottom: 40px;
 }
-  
+
 .btn-wrapper {
   text-align: center;
 }
@@ -57,7 +46,7 @@ a {
 }
 
 .signup {
-  background-color: red;
+  background-color: #239b76;
 }
 
 .facebook {
@@ -279,5 +268,4 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-  
-
+}
